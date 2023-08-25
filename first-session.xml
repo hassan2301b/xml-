@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<!DOCTYPE class[
+<xsl-stylesheet type="text/xsl" href="index.xsl">
+<!-- <!DOCTYPE class[
 <!ELEMENT class (stdname , age , address)>
-
 <!ELEMENT stdname (#PCDATA)>
 <!ELEMENT age (#PCDATA)>
 <!ELEMENT address (#PCDATA)>
-]>
+]> -->
 <person>
 <class id="1">
 <stdname>Hamza</stdname>
